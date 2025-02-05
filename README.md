@@ -1,2 +1,2 @@
-# SDSSVoyager
-SDSS Voyager explorations. 
+# SDSSVoyages
+SDSS Voyages explorations. 
